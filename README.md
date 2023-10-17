@@ -9,5 +9,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 =======
 # ReactStarter
-React Framework with Vite JS builder, TailwindCSS, React-Router-Dom combined as a React Starter Template
+React Framework with Vite JS builder, TailwindCSS, React-Router-Dom, DaisyUI as a React Component Library combined as a React Starter Template
 >>>>>>> ab53eae52e901d4d61ca6182afd5c0074b8be686
