@@ -14,7 +14,7 @@ const AllUser = () => {
     // console.log(user)
     return (
         <>
-            <div className="bg-sky-600 p-3 flex flex-wrap gap-2 justify-center">
+            <div className="bg-orange-200 p-3 flex flex-wrap gap-2 justify-center">
                 {
                     user.map(u => <Card key={u.id} users={u} />)
                 }

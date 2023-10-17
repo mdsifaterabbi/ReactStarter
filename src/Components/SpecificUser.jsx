@@ -14,15 +14,6 @@ const SpecificUser = () => {
 
     return (
         <>
-            {/* <h1>{user.id}</h1>
-            <span>{user.name}</span><br></br>
-            <span>{user.username}</span><br></br>
-            <span>{user.email}</span><br></br>
-            <span>{user.phone}</span><br></br>
-            <span>{user?.address?.city}</span><br></br>
-            <span>{user?.address?.street}</span><br></br>
-            <span>{user?.address?.zipcode}</span><br></br>
-            <span>{user?.company?.name}</span><br></br> */}
 
             <div className="card w-96 bg-base-100 shadow-xl mx-auto mt-10">
                 <div className="card-body">
@@ -47,28 +38,3 @@ const SpecificUser = () => {
 
 export default SpecificUser
 
-/*
-{
-    "id": 6,
-    "name": "Mrs. Dennis Schulist",
-    "username": "Leopoldo_Corkery",
-    "email": "Karley_Dach@jasper.info",
-    "address": {
-        "street": "Norberto Crossing",
-        "suite": "Apt. 950",
-        "city": "South Christy",
-        "zipcode": "23505-1337",
-        "geo": {
-            "lat": "-71.4197",
-            "lng": "71.7478"
-        }
-    },
-    "phone": "1-477-935-8478 x6430",
-    "website": "ola.org",
-    "company": {
-        "name": "Considine-Lockman",
-        "catchPhrase": "Synchronised bottom-line interface",
-        "bs": "e-enable innovative applications"
-    }
-}
-*/

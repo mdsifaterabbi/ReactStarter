@@ -13,7 +13,7 @@ const NavBar = () => {
                         <li><Link to={"/alluser"} className="text-white hover:bg-white">All User</Link></li>
                     </ul>
                 </div>
-                <a className="btn btn-info normal-case text-xl hover:bg-white">daisyUI</a>
+                <Link to={"/home"} className="btn btn-info normal-case text-xl hover:bg-white">daisyUI</Link>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
